@@ -24,7 +24,7 @@ register_plugin($plugin_id, $data);
 //plugin function
 function add_NL_lang() {
    global $hook,$lang; 
-   $hook->addMenuLang('nl',$lang["dutch"],'?strLangue=nl','nl.png','5');
+   $hook->addMenuLang('nl',$lang["dutch"],'?strLangue=nl','nl.png','6');
 }
 
 add_hook('action','add_NL_lang');
