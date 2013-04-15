@@ -6,4 +6,4 @@ Just remember to upload the flag icon (nl.png) to the appropriate folder. By def
 
 =====================================
 Author: Decimo
-Contact: #paste8@irc.rizon.net
+Contact: <a href="irc://irc.rizon.net/paste8">#paste8@irc.rizon.net</a>
