@@ -7,4 +7,4 @@ By default it is /themes/bootstrap/img/flag .
 
 =====================================
 Author: Decimo<br>
-Contact: <a href="irc://irc.rizon.net/paste8">#paste8@irc.rizon.net</a>
+Contact: #paste8@irc.rizon.net
